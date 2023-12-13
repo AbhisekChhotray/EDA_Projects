@@ -1,0 +1,36 @@
+Glossary
+• I have divided the Dashboard into 3 parts: - General Dashboard and Customer 
+Purchase Behavior Dashboard, Customer Segmentation
+• The 1st Dashboard one depicts the overall sales trend, profit, top income categories, 
+etc. and all of them are designed keeping “sales” as base.
+• The 2nd Dashboard is basically highlighting the behavior of customer towards their 
+purchase patterns, top products that are preferred by the customers, etc. which would 
+further help the company in channelizing their business strategy.
+• The 3rd Dashboard basically points at how many customers are present (segments) and 
+which all customers need to be paid attention, etc.
+• Coming into the technical part (considered while making the dashboard): -
+1. To handle the numbers, present under week and day column into more 
+informatic format, I have converted them into date-time (Base/Start is 
+considered from 01-01-2021) where exactly 2 years data is present to be 
+analyzed in order to make a more informed dashboard/decision.
+2. To represent the codes of Marital status, I have mapped them into married, 
+etc., which further helped in making the Dashboard more understandable.
+3. Columns which had certain null values, etc. are also handled properly to 
+generate more meaningful data.
+4. To take out the profit from sales, custom columns is made which derives 
+calculation from discounts, etc. (COGS & profit per unit).
+5. Certain other custom columns are also designed as per need basis while 
+designing KPIs, RFM analysis, etc.
+
+#To cater all the above pointers, respective calculated field are made for same#
+
+1. Link to the General Sales Dashboard: -
+https://public.tableau.com/views/GeneralSalesDashboard_17021145098840/GeneralSalesDas
+hboard?:language=en-US&:display_count=n&:origin=viz_share_link
+
+2. Link to the Customer Behavior Analysis Dashboard: -
+https://public.tableau.com/views/SalesDashboardBasedonCustomerPurchaseBehaviour/Custo
+merPurchasePatternDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+
+3. Link to the Customer Segmentation and Focus Analysis Dashboard: -
+https://public.tableau.com/shared/YGWJ9C6DC?:display_count=n&:origin=viz_share_link
